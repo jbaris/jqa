@@ -1,5 +1,3 @@
-<img src="http://www.fluxit.com.ar/logo.jpg"/>
-
 # Java Quality Assurance (JQA) [![](https://secure.travis-ci.org/jbaris/jqa.png?branch=master)](http://travis-ci.org/jbaris/jqa) [![](https://jbaris.ci.cloudbees.com/job/jqa/badge/icon)](https://jbaris.ci.cloudbees.com/job/jqa/)
 JQA is an open source tool for QA of Java applications. It is considered a supplement to tools like PMD (http://pmd.sourceforge.net/) or Checkstyle (http://checkstyle.sourceforge.net/) because it allows to write rules that exploit the bytecode engine capabilities for high-level architecture validations.
 
@@ -58,7 +56,5 @@ Once your changes get merged back in, you’ll automatically be added to the [Co
 
 ## License
 This project is under GNU Lesser General Public License version 3 or later (http://www.gnu.org/licenses/).
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/0fbedc5327f5a3ec49f4cc11768f0190 "githalytics.com")](http://githalytics.com/jbaris/jqa)
 
 
